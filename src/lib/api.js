@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3000/api';
-// const API_URL = 'https://mini-ecommerce-server-1.onrender.com/api/products';
+// const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://mini-ecommerce-server-zjfl.onrender.com/api';
 
 
 export const api = {
